@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+}
+
+main {
+    width: 150%;
+    height: 70vh;
+    margin: 8rem auto 0;
+    display: grid;
+    grid-template: "tri medtri mag medmag" 1fr / 1fr 300px 1fr 300px;
+}
+
+.link {
+    fill: none;
+}
+
+.label {
+    font-family: 'Muli', sans-serif;
+    font-size: 0.6rem;
+    text-transform: uppercase;
+}
+
+.voti svg {
+    background-color: #eeeeee;
+}
+
+.media.label {
+    font-size: 0.4rem;
+    font-weight: 900;
+}

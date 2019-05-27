@@ -1,0 +1,83 @@
+laurea,source,target,value
+triennale,immatricolati,prodotto,273
+triennale,immatricolati,comunicazione,146
+triennale,immatricolati,interni,299
+triennale,immatricolati,moda,151
+triennale,comunicazione,ancora in corso,3
+triennale,comunicazione,abbandoni,11
+triennale,comunicazione,laureati,132
+triennale,interni,ancora in corso,70
+triennale,interni,abbandoni,20
+triennale,interni,laureati,209
+triennale,moda,ancora in corso,11
+triennale,moda,abbandoni,9
+triennale,moda,laureati,131
+triennale,prodotto,ancora in corso,54
+triennale,prodotto,abbandoni,22
+triennale,prodotto,laureati,197
+magistrale,accademie e isia,prodotto,15
+magistrale,accademie e isia,comunicazione,15
+magistrale,accademie e isia,moda,0
+magistrale,accademie e isia,interni,10
+magistrale,accademie e isia,pssd,0
+magistrale,accademie e isia,dee,4
+magistrale,altri atenei,prodotto,20
+magistrale,altri atenei,comunicazione,29
+magistrale,altri atenei,moda,7
+magistrale,altri atenei,interni,16
+magistrale,altri atenei,pssd,1
+magistrale,altri atenei,dee,13
+magistrale,altri politecnico,prodotto,1
+magistrale,altri politecnico,comunicazione,9
+magistrale,altri politecnico,moda,0
+magistrale,altri politecnico,interni,4
+magistrale,altri politecnico,pssd,0
+magistrale,altri politecnico,dee,4
+magistrale,estero,prodotto,22
+magistrale,estero,comunicazione,15
+magistrale,estero,moda,34
+magistrale,estero,interni,43
+magistrale,estero,pssd,40
+magistrale,estero,dee,31
+magistrale,laureati triennale comunicazione,prodotto,0
+magistrale,laureati triennale comunicazione,comunicazione,28
+magistrale,laureati triennale comunicazione,moda,1
+magistrale,laureati triennale comunicazione,interni,0
+magistrale,laureati triennale comunicazione,pssd,10
+magistrale,laureati triennale comunicazione,dee,0
+magistrale,laureati triennale interni,prodotto,5
+magistrale,laureati triennale interni,comunicazione,11
+magistrale,laureati triennale interni,moda,2
+magistrale,laureati triennale interni,interni,48
+magistrale,laureati triennale interni,pssd,8
+magistrale,laureati triennale interni,dee,2
+magistrale,laureati triennale moda,prodotto,0
+magistrale,laureati triennale moda,comunicazione,3
+magistrale,laureati triennale moda,moda,27
+magistrale,laureati triennale moda,interni,0
+magistrale,laureati triennale moda,pssd,0
+magistrale,laureati triennale moda,dee,0
+magistrale,laureati triennale prodotto,prodotto,39
+magistrale,laureati triennale prodotto,comunicazione,13
+magistrale,laureati triennale prodotto,moda,1
+magistrale,laureati triennale prodotto,interni,7
+magistrale,laureati triennale prodotto,pssd,19
+magistrale,laureati triennale prodotto,dee,23
+magistrale,comunicazione,ancora in corso,87
+magistrale,comunicazione,abbandoni,2
+magistrale,comunicazione,laureati,34
+magistrale,dee,ancora in corso,51
+magistrale,dee,abbandoni,2
+magistrale,dee,laureati,24
+magistrale,interni,ancora in corso,77
+magistrale,interni,abbandoni,1
+magistrale,interni,laureati,50
+magistrale,moda,ancora in corso,53
+magistrale,moda,abbandoni,0
+magistrale,moda,laureati,19
+magistrale,prodotto,ancora in corso,77
+magistrale,prodotto,abbandoni,1
+magistrale,prodotto,laureati,24
+magistrale,pssd,ancora in corso,50
+magistrale,pssd,abbandoni,1
+magistrale,pssd,laureati,27
